@@ -47,6 +47,7 @@
 | Project | Role & Description | Links |
 |---|---|---|
 | 🌌 **QuantAura** | **Founder / Lead Dev:** Live crypto analytics SaaS. Features a 4-model ML ensemble, real-time Telegram signal delivery, automated cloud training (GitHub Actions), and freemium billing via Binance Pay. | [Live Site](https://quantaura.tech) |
+| 🌟 **Ezzstar Social** | **Full-Stack Developer:** Developing a fully-featured social networking platform with stories, messaging, and Web3 wallet integration. Built with React, Tailwind, and Node.js. | [Repository](https://github.com/Ezzstarx/Social-Website) |
 | 🖼️ **TrueSofts NFT** | **Full-Stack Web3 Dev:** Architected a full-stack NFT Marketplace with ERC-721 integration, IPFS decentralized storage, and MetaMask connectivity. | - |
 | 🔮 **Prediction Market** | **Blockchain Dev:** Built on Ethereum using Solidity/Hardhat with on-chain settlement logic and automated oracle resolution. | - |
 | 🎬 **TextVid AI** | **Full-Stack / AI Dev:** Developed an AI-powered text-to-video generation platform as an end-to-end client solution. | [Live Site](https://textvidai.com) |
