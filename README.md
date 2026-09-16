@@ -57,10 +57,5 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak7256369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak7256369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-<br />
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak7256369&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
