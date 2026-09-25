@@ -20,7 +20,7 @@
 - 🔭 **Founder & Lead Developer** at **[QuantAura](https://quantaura.tech)** — a live crypto analytics SaaS powered by a 4-model ML ensemble.
 - 👯 **Co-Founder & Technical Partner** at **[FJP SEO Services](https://fjpseoservices.com)**.
 - 🎓 CS Undergraduate at COMSATS University, researching crypto market-regimes and predictive models.
-- 📄 **Published research preprint on SSRN (Sep 2026):** *[Co-movement Without Leadership: Bitcoin's Regime-Level Influence on Altcoins, and Why Its Predictability Is Not Profitability](https://ssrn.com/abstract=7485359)* — under review at **Journal of Risk and Financial Management (JRFM), MDPI**.
+- 📄 **Published research preprint on SSRN (Sep 2026):** *[Co-movement Without Leadership: Bitcoin's Regime-Level Influence on Altcoins, and Why Its Predictability Is Not Profitability](https://ssrn.com/abstract=7485359)* (DOI: [10.2139/ssrn.7485359](https://doi.org/10.2139/ssrn.7485359)).
 - 💡 Passionate about blending **AI/ML**, **Blockchain**, and **Full-Stack** technologies to build impactful SaaS products.
 
 ---
@@ -48,7 +48,7 @@
 | Project | Role & Description | Links |
 |---|---|---|
 | 🌌 **QuantAura** | **Founder / Lead Dev:** Live crypto analytics SaaS. Features a 4-model ML ensemble, real-time Telegram signal delivery, automated cloud training (GitHub Actions), and freemium billing via Binance Pay. | [Live Site](https://quantaura.tech) |
-| 📄 **Research Paper** | **Solo Author:** *Co-movement Without Leadership: Bitcoin's Regime-Level Influence on Altcoins* — preprint live on SSRN (Sep 2026), under review at JRFM (MDPI). | [SSRN](https://ssrn.com/abstract=7485359) |
+| 📄 **Research Paper** | **Solo Author:** *Co-movement Without Leadership: Bitcoin's Regime-Level Influence on Altcoins* — preprint live on SSRN (Sep 2026), DOI 10.2139/ssrn.7485359. | [SSRN](https://ssrn.com/abstract=7485359) |
 | 🌟 **Ezzstar Social** | **Full-Stack Developer:** Developing a fully-featured social networking platform with stories, messaging, and Web3 wallet integration. Built with React, Tailwind, and Node.js. | [Repository](https://github.com/Ezzstarx/Social-Website) |
 | 🖼️ **TrueSofts NFT** | **Full-Stack Web3 Dev:** Architected a full-stack NFT Marketplace with ERC-721 integration, IPFS decentralized storage, and MetaMask connectivity. | - |
 | 🔮 **Prediction Market** | **Blockchain Dev:** Built on Ethereum using Solidity/Hardhat with on-chain settlement logic and automated oracle resolution. | - |
